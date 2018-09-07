@@ -1,0 +1,1 @@
+# webpack-packsuit-html-plugin
